@@ -15,6 +15,7 @@ target-lane-*/
 # Render outputs / scratch (we don't version generated images)
 /out/
 /output/
+/autoshade-proxy/
 *.tmp
 
 # AI-denoise sidecar: downloaded model weights (~137 MB) + Python caches.
